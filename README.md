@@ -70,9 +70,9 @@ Investment Type: Venture type is the most suitable for investments within the 5 
 Country: USA, Great Britain, and India are the top countries for investment.
 Sector: Detailed sector analysis provided based on mapping data.
 
--  1. Primary Investment: Focus on Cleantech / Semiconductors.
--  2. Secondary Investment: Allocate 25% of investments to sectors like Social, Finance, Analytics, Advertising, News, Search, and Messaging.
--  3. Tertiary Investment: The remaining 25% should be diversified across Manufacturing, Health, Entertainment, Automotive, and Sports sectors.
+  1. Primary Investment: Focus on Cleantech / Semiconductors.
+  2. Secondary Investment: Allocate 25% of investments to sectors like Social, Finance, Analytics, Advertising, News, Search, and Messaging.
+  3. Tertiary Investment: The remaining 25% should be diversified across Manufacturing, Health, Entertainment, Automotive, and Sports sectors.
 
 ### **Repository Contents**
 Sparks Fund Analysis.ipynb: Jupyter notebook containing the full analysis.
